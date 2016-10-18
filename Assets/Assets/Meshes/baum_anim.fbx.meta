@@ -1,0 +1,231 @@
+fileFormatVersion: 2
+guid: cd9c6d40ed3dc8a488a32a305122b164
+timeCreated: 1467045348
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: blatt1
+    100004: blatt1_2
+    100006: blatt1_3
+    100008: blatt1_4
+    100010: blatt1_5
+    100012: blatt1_6
+    100014: blatt2
+    100016: blatt2_2
+    100018: blatt2_3
+    100020: blatt2_4
+    100022: blatt2_5
+    100024: blatt2_6
+    100026: blatt_klein1
+    100028: blatt_klein1_2
+    100030: blatt_klein1_3
+    100032: blatt_klein1_4
+    100034: blatt_klein1_5
+    100036: blatt_klein2
+    100038: blatt_klein2_2
+    100040: blatt_klein2_3
+    100042: blatt_klein2_4
+    100044: blatt_klein2_5
+    100046: cluster1Handle
+    100048: cluster2Handle
+    100050: cluster3Handle
+    100052: cluster4Handle
+    100054: curve1
+    100056: group
+    100058: ikHandle1
+    100060: ikHandle_baum
+    100062: ikHandle_blatt1
+    100064: ikHandle_blatt_klein1
+    100066: ikHandle_blatt_klein2
+    100068: IkHandle_GRP
+    100070: pasted__group1
+    100072: pasted__group2
+    100074: pasted__pSphere1
+    100076: pasted__pSphere1 1
+    100078: pasted__pSphere2
+    100080: pasted__pSphere2 1
+    100082: pasted__pSphere3
+    100084: pasted__pSphere3 1
+    100086: pasted__pSphere4
+    100088: pasted__pSphere4 1
+    100090: pasted__pSphere5
+    100092: pasted__pSphere5 1
+    100094: pasted__pSphere6
+    100096: pasted__pSphere6 1
+    100098: pasted__pSphere7
+    100100: pasted__pSphere7 1
+    100102: pCylinder1
+    100104: pCylinder2
+    100106: ranke_1
+    100108: ranke_2
+    100110: stamm
+    100112: stamm2
+    100114: stamm3
+    100116: stamm4
+    100118: tree_1
+    400000: //RootNode
+    400002: blatt1
+    400004: blatt1_2
+    400006: blatt1_3
+    400008: blatt1_4
+    400010: blatt1_5
+    400012: blatt1_6
+    400014: blatt2
+    400016: blatt2_2
+    400018: blatt2_3
+    400020: blatt2_4
+    400022: blatt2_5
+    400024: blatt2_6
+    400026: blatt_klein1
+    400028: blatt_klein1_2
+    400030: blatt_klein1_3
+    400032: blatt_klein1_4
+    400034: blatt_klein1_5
+    400036: blatt_klein2
+    400038: blatt_klein2_2
+    400040: blatt_klein2_3
+    400042: blatt_klein2_4
+    400044: blatt_klein2_5
+    400046: cluster1Handle
+    400048: cluster2Handle
+    400050: cluster3Handle
+    400052: cluster4Handle
+    400054: curve1
+    400056: group
+    400058: ikHandle1
+    400060: ikHandle_baum
+    400062: ikHandle_blatt1
+    400064: ikHandle_blatt_klein1
+    400066: ikHandle_blatt_klein2
+    400068: IkHandle_GRP
+    400070: pasted__group1
+    400072: pasted__group2
+    400074: pasted__pSphere1
+    400076: pasted__pSphere1 1
+    400078: pasted__pSphere2
+    400080: pasted__pSphere2 1
+    400082: pasted__pSphere3
+    400084: pasted__pSphere3 1
+    400086: pasted__pSphere4
+    400088: pasted__pSphere4 1
+    400090: pasted__pSphere5
+    400092: pasted__pSphere5 1
+    400094: pasted__pSphere6
+    400096: pasted__pSphere6 1
+    400098: pasted__pSphere7
+    400100: pasted__pSphere7 1
+    400102: pCylinder1
+    400104: pCylinder2
+    400106: ranke_1
+    400108: ranke_2
+    400110: stamm
+    400112: stamm2
+    400114: stamm3
+    400116: stamm4
+    400118: tree_1
+    4300000: tree_1
+    4300002: ranke_1
+    4300004: ranke_2
+    4300006: pasted__pSphere1
+    4300008: pasted__pSphere2
+    4300010: pasted__pSphere3
+    4300012: pasted__pSphere4
+    4300014: pasted__pSphere5
+    4300016: pasted__pSphere6
+    4300018: pasted__pSphere7
+    4300020: pCylinder2
+    4300022: pasted__pSphere1
+    4300024: pasted__pSphere2
+    4300026: pasted__pSphere3
+    4300028: pasted__pSphere4
+    4300030: pasted__pSphere5
+    4300032: pasted__pSphere6
+    4300034: pasted__pSphere7
+    4300036: pCylinder1
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: pasted__pSphere1
+    13700002: pasted__pSphere1 1
+    13700004: pasted__pSphere2
+    13700006: pasted__pSphere2 1
+    13700008: pasted__pSphere3
+    13700010: pasted__pSphere3 1
+    13700012: pasted__pSphere4
+    13700014: pasted__pSphere4 1
+    13700016: pasted__pSphere5
+    13700018: pasted__pSphere5 1
+    13700020: pasted__pSphere6
+    13700022: pasted__pSphere6 1
+    13700024: pasted__pSphere7
+    13700026: pasted__pSphere7 1
+    13700028: pCylinder1
+    13700030: pCylinder2
+    13700032: ranke_1
+    13700034: ranke_2
+    13700036: tree_1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

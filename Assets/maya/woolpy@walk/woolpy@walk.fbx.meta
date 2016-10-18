@@ -1,0 +1,1223 @@
+fileFormatVersion: 2
+guid: 88dfce07e916769459368e382607b207
+timeCreated: 1464720766
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: back1
+    100002: back2
+    100004: cluster_abs
+    100006: cluster_abs 1
+    100008: cluster_chest
+    100010: cluster_chest 1
+    100012: cluster_hip
+    100014: cluster_hip 1
+    100016: cluster_tail1
+    100018: cluster_tail1 1
+    100020: cluster_tail2
+    100022: cluster_tail2 1
+    100024: cluster_tail3
+    100026: cluster_tail3 1
+    100028: cluster_tail_top
+    100030: cluster_tail_top 1
+    100032: cluster_top
+    100034: cluster_top 1
+    100036: global_control
+    100038: hip
+    100040: left_ankle
+    100042: left_foot
+    100044: left_hip
+    100046: left_knee
+    100048: left_strand1
+    100050: left_strand10
+    100052: left_strand11
+    100054: left_strand12
+    100056: left_strand13
+    100058: left_strand14
+    100060: left_strand15
+    100062: left_strand15 1
+    100064: left_strand15 2
+    100066: left_strand15 3
+    100068: left_strand16
+    100070: left_strand17
+    100072: left_strand18
+    100074: left_strand19
+    100076: left_strand2
+    100078: left_strand20
+    100080: left_strand21
+    100082: left_strand22
+    100084: left_strand23
+    100086: left_strand24
+    100088: left_strand25
+    100090: left_strand26
+    100092: left_strand27
+    100094: left_strand28
+    100096: left_strand29
+    100098: left_strand3
+    100100: left_strand30
+    100102: left_strand31
+    100104: left_strand32
+    100106: left_strand33
+    100108: left_strand34
+    100110: left_strand35
+    100112: left_strand36
+    100114: left_strand37
+    100116: left_strand38
+    100118: left_strand39
+    100120: left_strand4
+    100122: left_strand40
+    100124: left_strand41
+    100126: left_strand42
+    100128: left_strand43
+    100130: left_strand44
+    100132: left_strand45
+    100134: left_strand46
+    100136: left_strand47
+    100138: left_strand48
+    100140: left_strand49
+    100142: left_strand5
+    100144: left_strand50
+    100146: left_strand51
+    100148: left_strand52
+    100150: left_strand53
+    100152: left_strand54
+    100154: left_strand55
+    100156: left_strand56
+    100158: left_strand57
+    100160: left_strand58
+    100162: left_strand59
+    100164: left_strand6
+    100166: left_strand60
+    100168: left_strand61
+    100170: left_strand62
+    100172: left_strand63
+    100174: left_strand64
+    100176: left_strand65
+    100178: left_strand66
+    100180: left_strand67
+    100182: left_strand7
+    100184: left_strand8
+    100186: left_strand9
+    100188: left_toe
+    100190: nase
+    100192: nasenspitze
+    100194: right_ankle
+    100196: right_foot
+    100198: right_hip
+    100200: right_knee
+    100202: right_strand1
+    100204: right_strand10
+    100206: right_strand11
+    100208: right_strand12
+    100210: right_strand13
+    100212: right_strand14
+    100214: right_strand15
+    100216: right_strand15 1
+    100218: right_strand15 2
+    100220: right_strand15 3
+    100222: right_strand16
+    100224: right_strand17
+    100226: right_strand18
+    100228: right_strand19
+    100230: right_strand2
+    100232: right_strand20
+    100234: right_strand21
+    100236: right_strand22
+    100238: right_strand23
+    100240: right_strand24
+    100242: right_strand25
+    100244: right_strand26
+    100246: right_strand27
+    100248: right_strand28
+    100250: right_strand29
+    100252: right_strand3
+    100254: right_strand30
+    100256: right_strand31
+    100258: right_strand32
+    100260: right_strand33
+    100262: right_strand34
+    100264: right_strand35
+    100266: right_strand36
+    100268: right_strand37
+    100270: right_strand38
+    100272: right_strand39
+    100274: right_strand4
+    100276: right_strand40
+    100278: right_strand41
+    100280: right_strand42
+    100282: right_strand43
+    100284: right_strand44
+    100286: right_strand45
+    100288: right_strand46
+    100290: right_strand47
+    100292: right_strand48
+    100294: right_strand49
+    100296: right_strand5
+    100298: right_strand50
+    100300: right_strand51
+    100302: right_strand52
+    100304: right_strand53
+    100306: right_strand54
+    100308: right_strand55
+    100310: right_strand56
+    100312: right_strand57
+    100314: right_strand58
+    100316: right_strand59
+    100318: right_strand6
+    100320: right_strand60
+    100322: right_strand61
+    100324: right_strand62
+    100326: right_strand63
+    100328: right_strand64
+    100330: right_strand65
+    100332: right_strand66
+    100334: right_strand67
+    100336: right_strand7
+    100338: right_strand8
+    100340: right_strand9
+    100342: right_toe
+    100344: root
+    100346: Root_GRP
+    100348: spline
+    100350: tail
+    100352: tail1
+    100354: tail2
+    100356: tail3
+    100358: tail_top
+    100360: top
+    100362: //RootNode
+    400000: back1
+    400002: back2
+    400004: cluster_abs
+    400006: cluster_abs 1
+    400008: cluster_chest
+    400010: cluster_chest 1
+    400012: cluster_hip
+    400014: cluster_hip 1
+    400016: cluster_tail1
+    400018: cluster_tail1 1
+    400020: cluster_tail2
+    400022: cluster_tail2 1
+    400024: cluster_tail3
+    400026: cluster_tail3 1
+    400028: cluster_tail_top
+    400030: cluster_tail_top 1
+    400032: cluster_top
+    400034: cluster_top 1
+    400036: global_control
+    400038: hip
+    400040: left_ankle
+    400042: left_foot
+    400044: left_hip
+    400046: left_knee
+    400048: left_strand1
+    400050: left_strand10
+    400052: left_strand11
+    400054: left_strand12
+    400056: left_strand13
+    400058: left_strand14
+    400060: left_strand15
+    400062: left_strand15 1
+    400064: left_strand15 2
+    400066: left_strand15 3
+    400068: left_strand16
+    400070: left_strand17
+    400072: left_strand18
+    400074: left_strand19
+    400076: left_strand2
+    400078: left_strand20
+    400080: left_strand21
+    400082: left_strand22
+    400084: left_strand23
+    400086: left_strand24
+    400088: left_strand25
+    400090: left_strand26
+    400092: left_strand27
+    400094: left_strand28
+    400096: left_strand29
+    400098: left_strand3
+    400100: left_strand30
+    400102: left_strand31
+    400104: left_strand32
+    400106: left_strand33
+    400108: left_strand34
+    400110: left_strand35
+    400112: left_strand36
+    400114: left_strand37
+    400116: left_strand38
+    400118: left_strand39
+    400120: left_strand4
+    400122: left_strand40
+    400124: left_strand41
+    400126: left_strand42
+    400128: left_strand43
+    400130: left_strand44
+    400132: left_strand45
+    400134: left_strand46
+    400136: left_strand47
+    400138: left_strand48
+    400140: left_strand49
+    400142: left_strand5
+    400144: left_strand50
+    400146: left_strand51
+    400148: left_strand52
+    400150: left_strand53
+    400152: left_strand54
+    400154: left_strand55
+    400156: left_strand56
+    400158: left_strand57
+    400160: left_strand58
+    400162: left_strand59
+    400164: left_strand6
+    400166: left_strand60
+    400168: left_strand61
+    400170: left_strand62
+    400172: left_strand63
+    400174: left_strand64
+    400176: left_strand65
+    400178: left_strand66
+    400180: left_strand67
+    400182: left_strand7
+    400184: left_strand8
+    400186: left_strand9
+    400188: left_toe
+    400190: nase
+    400192: nasenspitze
+    400194: right_ankle
+    400196: right_foot
+    400198: right_hip
+    400200: right_knee
+    400202: right_strand1
+    400204: right_strand10
+    400206: right_strand11
+    400208: right_strand12
+    400210: right_strand13
+    400212: right_strand14
+    400214: right_strand15
+    400216: right_strand15 1
+    400218: right_strand15 2
+    400220: right_strand15 3
+    400222: right_strand16
+    400224: right_strand17
+    400226: right_strand18
+    400228: right_strand19
+    400230: right_strand2
+    400232: right_strand20
+    400234: right_strand21
+    400236: right_strand22
+    400238: right_strand23
+    400240: right_strand24
+    400242: right_strand25
+    400244: right_strand26
+    400246: right_strand27
+    400248: right_strand28
+    400250: right_strand29
+    400252: right_strand3
+    400254: right_strand30
+    400256: right_strand31
+    400258: right_strand32
+    400260: right_strand33
+    400262: right_strand34
+    400264: right_strand35
+    400266: right_strand36
+    400268: right_strand37
+    400270: right_strand38
+    400272: right_strand39
+    400274: right_strand4
+    400276: right_strand40
+    400278: right_strand41
+    400280: right_strand42
+    400282: right_strand43
+    400284: right_strand44
+    400286: right_strand45
+    400288: right_strand46
+    400290: right_strand47
+    400292: right_strand48
+    400294: right_strand49
+    400296: right_strand5
+    400298: right_strand50
+    400300: right_strand51
+    400302: right_strand52
+    400304: right_strand53
+    400306: right_strand54
+    400308: right_strand55
+    400310: right_strand56
+    400312: right_strand57
+    400314: right_strand58
+    400316: right_strand59
+    400318: right_strand6
+    400320: right_strand60
+    400322: right_strand61
+    400324: right_strand62
+    400326: right_strand63
+    400328: right_strand64
+    400330: right_strand65
+    400332: right_strand66
+    400334: right_strand67
+    400336: right_strand7
+    400338: right_strand8
+    400340: right_strand9
+    400342: right_toe
+    400344: root
+    400346: Root_GRP
+    400348: spline
+    400350: tail
+    400352: tail1
+    400354: tail2
+    400356: tail3
+    400358: tail_top
+    400360: top
+    400362: //RootNode
+    7400000: walk
+    7400002: walk
+    7400004: walk0
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: walk
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 25
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: global_control
+        weight: 1
+      - path: Root_GRP
+        weight: 1
+      - path: Root_GRP/root
+        weight: 1
+      - path: Root_GRP/root/cluster_abs
+        weight: 1
+      - path: Root_GRP/root/cluster_abs/cluster_abs 1
+        weight: 1
+      - path: Root_GRP/root/cluster_chest
+        weight: 1
+      - path: Root_GRP/root/cluster_chest/cluster_chest 1
+        weight: 1
+      - path: Root_GRP/root/cluster_hip
+        weight: 1
+      - path: Root_GRP/root/cluster_hip/cluster_hip 1
+        weight: 1
+      - path: Root_GRP/root/cluster_top
+        weight: 1
+      - path: Root_GRP/root/cluster_top/cluster_top 1
+        weight: 1
+      - path: Root_GRP/root/hip
+        weight: 1
+      - path: Root_GRP/root/hip/back1
+        weight: 1
+      - path: Root_GRP/root/hip/back1/back2
+        weight: 1
+      - path: Root_GRP/root/hip/back1/back2/top
+        weight: 1
+      - path: Root_GRP/root/hip/cluster_tail1
+        weight: 1
+      - path: Root_GRP/root/hip/cluster_tail1/cluster_tail1 1
+        weight: 1
+      - path: Root_GRP/root/hip/cluster_tail2
+        weight: 1
+      - path: Root_GRP/root/hip/cluster_tail2/cluster_tail2 1
+        weight: 1
+      - path: Root_GRP/root/hip/cluster_tail3
+        weight: 1
+      - path: Root_GRP/root/hip/cluster_tail3/cluster_tail3 1
+        weight: 1
+      - path: Root_GRP/root/hip/cluster_tail_top
+        weight: 1
+      - path: Root_GRP/root/hip/cluster_tail_top/cluster_tail_top 1
+        weight: 1
+      - path: Root_GRP/root/hip/left_hip
+        weight: 1
+      - path: Root_GRP/root/hip/left_hip/left_knee
+        weight: 1
+      - path: Root_GRP/root/hip/left_hip/left_knee/left_ankle
+        weight: 1
+      - path: Root_GRP/root/hip/left_hip/left_knee/left_ankle/left_foot
+        weight: 1
+      - path: Root_GRP/root/hip/left_hip/left_knee/left_ankle/left_foot/left_toe
+        weight: 1
+      - path: Root_GRP/root/hip/left_strand2
+        weight: 1
+      - path: Root_GRP/root/hip/left_strand2/left_strand1
+        weight: 1
+      - path: Root_GRP/root/hip/left_strand4
+        weight: 1
+      - path: Root_GRP/root/hip/left_strand4/left_strand3
+        weight: 1
+      - path: Root_GRP/root/hip/left_strand6
+        weight: 1
+      - path: Root_GRP/root/hip/left_strand6/left_strand5
+        weight: 1
+      - path: Root_GRP/root/hip/left_strand8
+        weight: 1
+      - path: Root_GRP/root/hip/left_strand8/left_strand7
+        weight: 1
+      - path: Root_GRP/root/hip/left_strand10
+        weight: 1
+      - path: Root_GRP/root/hip/left_strand10/left_strand9
+        weight: 1
+      - path: Root_GRP/root/hip/left_strand12
+        weight: 1
+      - path: Root_GRP/root/hip/left_strand12/left_strand11
+        weight: 1
+      - path: Root_GRP/root/hip/left_strand14
+        weight: 1
+      - path: Root_GRP/root/hip/left_strand14/left_strand13
+        weight: 1
+      - path: Root_GRP/root/hip/left_strand16
+        weight: 1
+      - path: Root_GRP/root/hip/left_strand16/left_strand15
+        weight: 1
+      - path: Root_GRP/root/hip/left_strand18
+        weight: 1
+      - path: Root_GRP/root/hip/left_strand18/left_strand17
+        weight: 1
+      - path: Root_GRP/root/hip/left_strand20
+        weight: 1
+      - path: Root_GRP/root/hip/left_strand20/left_strand19
+        weight: 1
+      - path: Root_GRP/root/hip/left_strand22
+        weight: 1
+      - path: Root_GRP/root/hip/left_strand22/left_strand21
+        weight: 1
+      - path: Root_GRP/root/hip/left_strand24
+        weight: 1
+      - path: Root_GRP/root/hip/left_strand24/left_strand23
+        weight: 1
+      - path: Root_GRP/root/hip/left_strand26
+        weight: 1
+      - path: Root_GRP/root/hip/left_strand26/left_strand25
+        weight: 1
+      - path: Root_GRP/root/hip/left_strand28
+        weight: 1
+      - path: Root_GRP/root/hip/left_strand28/left_strand27
+        weight: 1
+      - path: Root_GRP/root/hip/left_strand30
+        weight: 1
+      - path: Root_GRP/root/hip/left_strand30/left_strand29
+        weight: 1
+      - path: Root_GRP/root/hip/left_strand32
+        weight: 1
+      - path: Root_GRP/root/hip/left_strand32/left_strand31
+        weight: 1
+      - path: Root_GRP/root/hip/left_strand34
+        weight: 1
+      - path: Root_GRP/root/hip/left_strand34/left_strand33
+        weight: 1
+      - path: Root_GRP/root/hip/left_strand36
+        weight: 1
+      - path: Root_GRP/root/hip/left_strand36/left_strand35
+        weight: 1
+      - path: Root_GRP/root/hip/left_strand38
+        weight: 1
+      - path: Root_GRP/root/hip/left_strand38/left_strand37
+        weight: 1
+      - path: Root_GRP/root/hip/left_strand40
+        weight: 1
+      - path: Root_GRP/root/hip/left_strand40/left_strand39
+        weight: 1
+      - path: Root_GRP/root/hip/left_strand42
+        weight: 1
+      - path: Root_GRP/root/hip/left_strand42/left_strand41
+        weight: 1
+      - path: Root_GRP/root/hip/left_strand44
+        weight: 1
+      - path: Root_GRP/root/hip/left_strand44/left_strand43
+        weight: 1
+      - path: Root_GRP/root/hip/left_strand46
+        weight: 1
+      - path: Root_GRP/root/hip/left_strand46/left_strand45
+        weight: 1
+      - path: Root_GRP/root/hip/left_strand48
+        weight: 1
+      - path: Root_GRP/root/hip/left_strand48/left_strand47
+        weight: 1
+      - path: Root_GRP/root/hip/left_strand50
+        weight: 1
+      - path: Root_GRP/root/hip/left_strand50/left_strand49
+        weight: 1
+      - path: Root_GRP/root/hip/left_strand52
+        weight: 1
+      - path: Root_GRP/root/hip/left_strand52/left_strand51
+        weight: 1
+      - path: Root_GRP/root/hip/left_strand54
+        weight: 1
+      - path: Root_GRP/root/hip/left_strand54/left_strand53
+        weight: 1
+      - path: Root_GRP/root/hip/left_strand56
+        weight: 1
+      - path: Root_GRP/root/hip/left_strand56/left_strand55
+        weight: 1
+      - path: Root_GRP/root/hip/left_strand58
+        weight: 1
+      - path: Root_GRP/root/hip/left_strand58/left_strand57
+        weight: 1
+      - path: Root_GRP/root/hip/left_strand60
+        weight: 1
+      - path: Root_GRP/root/hip/left_strand60/left_strand59
+        weight: 1
+      - path: Root_GRP/root/hip/left_strand62
+        weight: 1
+      - path: Root_GRP/root/hip/left_strand62/left_strand61
+        weight: 1
+      - path: Root_GRP/root/hip/left_strand64
+        weight: 1
+      - path: Root_GRP/root/hip/left_strand64/left_strand63
+        weight: 1
+      - path: Root_GRP/root/hip/left_strand65
+        weight: 1
+      - path: Root_GRP/root/hip/left_strand65/left_strand15 1
+        weight: 1
+      - path: Root_GRP/root/hip/left_strand66
+        weight: 1
+      - path: Root_GRP/root/hip/left_strand66/left_strand15 2
+        weight: 1
+      - path: Root_GRP/root/hip/left_strand67
+        weight: 1
+      - path: Root_GRP/root/hip/left_strand67/left_strand15 3
+        weight: 1
+      - path: Root_GRP/root/hip/nase
+        weight: 1
+      - path: Root_GRP/root/hip/nase/nasenspitze
+        weight: 1
+      - path: Root_GRP/root/hip/right_hip
+        weight: 1
+      - path: Root_GRP/root/hip/right_hip/right_knee
+        weight: 1
+      - path: Root_GRP/root/hip/right_hip/right_knee/right_ankle
+        weight: 1
+      - path: Root_GRP/root/hip/right_hip/right_knee/right_ankle/right_foot
+        weight: 1
+      - path: Root_GRP/root/hip/right_hip/right_knee/right_ankle/right_foot/right_toe
+        weight: 1
+      - path: Root_GRP/root/hip/right_strand2
+        weight: 1
+      - path: Root_GRP/root/hip/right_strand2/right_strand1
+        weight: 1
+      - path: Root_GRP/root/hip/right_strand4
+        weight: 1
+      - path: Root_GRP/root/hip/right_strand4/right_strand3
+        weight: 1
+      - path: Root_GRP/root/hip/right_strand6
+        weight: 1
+      - path: Root_GRP/root/hip/right_strand6/right_strand5
+        weight: 1
+      - path: Root_GRP/root/hip/right_strand8
+        weight: 1
+      - path: Root_GRP/root/hip/right_strand8/right_strand7
+        weight: 1
+      - path: Root_GRP/root/hip/right_strand10
+        weight: 1
+      - path: Root_GRP/root/hip/right_strand10/right_strand9
+        weight: 1
+      - path: Root_GRP/root/hip/right_strand12
+        weight: 1
+      - path: Root_GRP/root/hip/right_strand12/right_strand11
+        weight: 1
+      - path: Root_GRP/root/hip/right_strand14
+        weight: 1
+      - path: Root_GRP/root/hip/right_strand14/right_strand13
+        weight: 1
+      - path: Root_GRP/root/hip/right_strand16
+        weight: 1
+      - path: Root_GRP/root/hip/right_strand16/right_strand15
+        weight: 1
+      - path: Root_GRP/root/hip/right_strand18
+        weight: 1
+      - path: Root_GRP/root/hip/right_strand18/right_strand17
+        weight: 1
+      - path: Root_GRP/root/hip/right_strand20
+        weight: 1
+      - path: Root_GRP/root/hip/right_strand20/right_strand19
+        weight: 1
+      - path: Root_GRP/root/hip/right_strand22
+        weight: 1
+      - path: Root_GRP/root/hip/right_strand22/right_strand21
+        weight: 1
+      - path: Root_GRP/root/hip/right_strand24
+        weight: 1
+      - path: Root_GRP/root/hip/right_strand24/right_strand23
+        weight: 1
+      - path: Root_GRP/root/hip/right_strand26
+        weight: 1
+      - path: Root_GRP/root/hip/right_strand26/right_strand25
+        weight: 1
+      - path: Root_GRP/root/hip/right_strand28
+        weight: 1
+      - path: Root_GRP/root/hip/right_strand28/right_strand27
+        weight: 1
+      - path: Root_GRP/root/hip/right_strand30
+        weight: 1
+      - path: Root_GRP/root/hip/right_strand30/right_strand29
+        weight: 1
+      - path: Root_GRP/root/hip/right_strand32
+        weight: 1
+      - path: Root_GRP/root/hip/right_strand32/right_strand31
+        weight: 1
+      - path: Root_GRP/root/hip/right_strand34
+        weight: 1
+      - path: Root_GRP/root/hip/right_strand34/right_strand33
+        weight: 1
+      - path: Root_GRP/root/hip/right_strand36
+        weight: 1
+      - path: Root_GRP/root/hip/right_strand36/right_strand35
+        weight: 1
+      - path: Root_GRP/root/hip/right_strand38
+        weight: 1
+      - path: Root_GRP/root/hip/right_strand38/right_strand37
+        weight: 1
+      - path: Root_GRP/root/hip/right_strand40
+        weight: 1
+      - path: Root_GRP/root/hip/right_strand40/right_strand39
+        weight: 1
+      - path: Root_GRP/root/hip/right_strand42
+        weight: 1
+      - path: Root_GRP/root/hip/right_strand42/right_strand41
+        weight: 1
+      - path: Root_GRP/root/hip/right_strand44
+        weight: 1
+      - path: Root_GRP/root/hip/right_strand44/right_strand43
+        weight: 1
+      - path: Root_GRP/root/hip/right_strand46
+        weight: 1
+      - path: Root_GRP/root/hip/right_strand46/right_strand45
+        weight: 1
+      - path: Root_GRP/root/hip/right_strand48
+        weight: 1
+      - path: Root_GRP/root/hip/right_strand48/right_strand47
+        weight: 1
+      - path: Root_GRP/root/hip/right_strand50
+        weight: 1
+      - path: Root_GRP/root/hip/right_strand50/right_strand49
+        weight: 1
+      - path: Root_GRP/root/hip/right_strand52
+        weight: 1
+      - path: Root_GRP/root/hip/right_strand52/right_strand51
+        weight: 1
+      - path: Root_GRP/root/hip/right_strand54
+        weight: 1
+      - path: Root_GRP/root/hip/right_strand54/right_strand53
+        weight: 1
+      - path: Root_GRP/root/hip/right_strand56
+        weight: 1
+      - path: Root_GRP/root/hip/right_strand56/right_strand55
+        weight: 1
+      - path: Root_GRP/root/hip/right_strand58
+        weight: 1
+      - path: Root_GRP/root/hip/right_strand58/right_strand57
+        weight: 1
+      - path: Root_GRP/root/hip/right_strand60
+        weight: 1
+      - path: Root_GRP/root/hip/right_strand60/right_strand59
+        weight: 1
+      - path: Root_GRP/root/hip/right_strand62
+        weight: 1
+      - path: Root_GRP/root/hip/right_strand62/right_strand61
+        weight: 1
+      - path: Root_GRP/root/hip/right_strand64
+        weight: 1
+      - path: Root_GRP/root/hip/right_strand64/right_strand63
+        weight: 1
+      - path: Root_GRP/root/hip/right_strand65
+        weight: 1
+      - path: Root_GRP/root/hip/right_strand65/right_strand15 1
+        weight: 1
+      - path: Root_GRP/root/hip/right_strand66
+        weight: 1
+      - path: Root_GRP/root/hip/right_strand66/right_strand15 2
+        weight: 1
+      - path: Root_GRP/root/hip/right_strand67
+        weight: 1
+      - path: Root_GRP/root/hip/right_strand67/right_strand15 3
+        weight: 1
+      - path: Root_GRP/root/hip/tail
+        weight: 1
+      - path: Root_GRP/root/hip/tail1
+        weight: 1
+      - path: Root_GRP/root/hip/tail1/tail2
+        weight: 1
+      - path: Root_GRP/root/hip/tail1/tail2/tail3
+        weight: 1
+      - path: Root_GRP/root/hip/tail1/tail2/tail3/tail_top
+        weight: 1
+      - path: Root_GRP/root/spline
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    - serializedVersion: 16
+      name: walk0
+      takeName: walk
+      firstFrame: 1
+      lastFrame: 24
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: global_control
+        weight: 1
+      - path: Root_GRP
+        weight: 1
+      - path: Root_GRP/root
+        weight: 1
+      - path: Root_GRP/root/cluster_abs
+        weight: 1
+      - path: Root_GRP/root/cluster_abs/cluster_abs 1
+        weight: 1
+      - path: Root_GRP/root/cluster_chest
+        weight: 1
+      - path: Root_GRP/root/cluster_chest/cluster_chest 1
+        weight: 1
+      - path: Root_GRP/root/cluster_hip
+        weight: 1
+      - path: Root_GRP/root/cluster_hip/cluster_hip 1
+        weight: 1
+      - path: Root_GRP/root/cluster_top
+        weight: 1
+      - path: Root_GRP/root/cluster_top/cluster_top 1
+        weight: 1
+      - path: Root_GRP/root/hip
+        weight: 1
+      - path: Root_GRP/root/hip/back1
+        weight: 1
+      - path: Root_GRP/root/hip/back1/back2
+        weight: 1
+      - path: Root_GRP/root/hip/back1/back2/top
+        weight: 1
+      - path: Root_GRP/root/hip/cluster_tail1
+        weight: 1
+      - path: Root_GRP/root/hip/cluster_tail1/cluster_tail1 1
+        weight: 1
+      - path: Root_GRP/root/hip/cluster_tail2
+        weight: 1
+      - path: Root_GRP/root/hip/cluster_tail2/cluster_tail2 1
+        weight: 1
+      - path: Root_GRP/root/hip/cluster_tail3
+        weight: 1
+      - path: Root_GRP/root/hip/cluster_tail3/cluster_tail3 1
+        weight: 1
+      - path: Root_GRP/root/hip/cluster_tail_top
+        weight: 1
+      - path: Root_GRP/root/hip/cluster_tail_top/cluster_tail_top 1
+        weight: 1
+      - path: Root_GRP/root/hip/left_hip
+        weight: 1
+      - path: Root_GRP/root/hip/left_hip/left_knee
+        weight: 1
+      - path: Root_GRP/root/hip/left_hip/left_knee/left_ankle
+        weight: 1
+      - path: Root_GRP/root/hip/left_hip/left_knee/left_ankle/left_foot
+        weight: 1
+      - path: Root_GRP/root/hip/left_hip/left_knee/left_ankle/left_foot/left_toe
+        weight: 1
+      - path: Root_GRP/root/hip/left_strand2
+        weight: 1
+      - path: Root_GRP/root/hip/left_strand2/left_strand1
+        weight: 1
+      - path: Root_GRP/root/hip/left_strand4
+        weight: 1
+      - path: Root_GRP/root/hip/left_strand4/left_strand3
+        weight: 1
+      - path: Root_GRP/root/hip/left_strand6
+        weight: 1
+      - path: Root_GRP/root/hip/left_strand6/left_strand5
+        weight: 1
+      - path: Root_GRP/root/hip/left_strand8
+        weight: 1
+      - path: Root_GRP/root/hip/left_strand8/left_strand7
+        weight: 1
+      - path: Root_GRP/root/hip/left_strand10
+        weight: 1
+      - path: Root_GRP/root/hip/left_strand10/left_strand9
+        weight: 1
+      - path: Root_GRP/root/hip/left_strand12
+        weight: 1
+      - path: Root_GRP/root/hip/left_strand12/left_strand11
+        weight: 1
+      - path: Root_GRP/root/hip/left_strand14
+        weight: 1
+      - path: Root_GRP/root/hip/left_strand14/left_strand13
+        weight: 1
+      - path: Root_GRP/root/hip/left_strand16
+        weight: 1
+      - path: Root_GRP/root/hip/left_strand16/left_strand15
+        weight: 1
+      - path: Root_GRP/root/hip/left_strand18
+        weight: 1
+      - path: Root_GRP/root/hip/left_strand18/left_strand17
+        weight: 1
+      - path: Root_GRP/root/hip/left_strand20
+        weight: 1
+      - path: Root_GRP/root/hip/left_strand20/left_strand19
+        weight: 1
+      - path: Root_GRP/root/hip/left_strand22
+        weight: 1
+      - path: Root_GRP/root/hip/left_strand22/left_strand21
+        weight: 1
+      - path: Root_GRP/root/hip/left_strand24
+        weight: 1
+      - path: Root_GRP/root/hip/left_strand24/left_strand23
+        weight: 1
+      - path: Root_GRP/root/hip/left_strand26
+        weight: 1
+      - path: Root_GRP/root/hip/left_strand26/left_strand25
+        weight: 1
+      - path: Root_GRP/root/hip/left_strand28
+        weight: 1
+      - path: Root_GRP/root/hip/left_strand28/left_strand27
+        weight: 1
+      - path: Root_GRP/root/hip/left_strand30
+        weight: 1
+      - path: Root_GRP/root/hip/left_strand30/left_strand29
+        weight: 1
+      - path: Root_GRP/root/hip/left_strand32
+        weight: 1
+      - path: Root_GRP/root/hip/left_strand32/left_strand31
+        weight: 1
+      - path: Root_GRP/root/hip/left_strand34
+        weight: 1
+      - path: Root_GRP/root/hip/left_strand34/left_strand33
+        weight: 1
+      - path: Root_GRP/root/hip/left_strand36
+        weight: 1
+      - path: Root_GRP/root/hip/left_strand36/left_strand35
+        weight: 1
+      - path: Root_GRP/root/hip/left_strand38
+        weight: 1
+      - path: Root_GRP/root/hip/left_strand38/left_strand37
+        weight: 1
+      - path: Root_GRP/root/hip/left_strand40
+        weight: 1
+      - path: Root_GRP/root/hip/left_strand40/left_strand39
+        weight: 1
+      - path: Root_GRP/root/hip/left_strand42
+        weight: 1
+      - path: Root_GRP/root/hip/left_strand42/left_strand41
+        weight: 1
+      - path: Root_GRP/root/hip/left_strand44
+        weight: 1
+      - path: Root_GRP/root/hip/left_strand44/left_strand43
+        weight: 1
+      - path: Root_GRP/root/hip/left_strand46
+        weight: 1
+      - path: Root_GRP/root/hip/left_strand46/left_strand45
+        weight: 1
+      - path: Root_GRP/root/hip/left_strand48
+        weight: 1
+      - path: Root_GRP/root/hip/left_strand48/left_strand47
+        weight: 1
+      - path: Root_GRP/root/hip/left_strand50
+        weight: 1
+      - path: Root_GRP/root/hip/left_strand50/left_strand49
+        weight: 1
+      - path: Root_GRP/root/hip/left_strand52
+        weight: 1
+      - path: Root_GRP/root/hip/left_strand52/left_strand51
+        weight: 1
+      - path: Root_GRP/root/hip/left_strand54
+        weight: 1
+      - path: Root_GRP/root/hip/left_strand54/left_strand53
+        weight: 1
+      - path: Root_GRP/root/hip/left_strand56
+        weight: 1
+      - path: Root_GRP/root/hip/left_strand56/left_strand55
+        weight: 1
+      - path: Root_GRP/root/hip/left_strand58
+        weight: 1
+      - path: Root_GRP/root/hip/left_strand58/left_strand57
+        weight: 1
+      - path: Root_GRP/root/hip/left_strand60
+        weight: 1
+      - path: Root_GRP/root/hip/left_strand60/left_strand59
+        weight: 1
+      - path: Root_GRP/root/hip/left_strand62
+        weight: 1
+      - path: Root_GRP/root/hip/left_strand62/left_strand61
+        weight: 1
+      - path: Root_GRP/root/hip/left_strand64
+        weight: 1
+      - path: Root_GRP/root/hip/left_strand64/left_strand63
+        weight: 1
+      - path: Root_GRP/root/hip/left_strand65
+        weight: 1
+      - path: Root_GRP/root/hip/left_strand65/left_strand15 1
+        weight: 1
+      - path: Root_GRP/root/hip/left_strand66
+        weight: 1
+      - path: Root_GRP/root/hip/left_strand66/left_strand15 2
+        weight: 1
+      - path: Root_GRP/root/hip/left_strand67
+        weight: 1
+      - path: Root_GRP/root/hip/left_strand67/left_strand15 3
+        weight: 1
+      - path: Root_GRP/root/hip/nase
+        weight: 1
+      - path: Root_GRP/root/hip/nase/nasenspitze
+        weight: 1
+      - path: Root_GRP/root/hip/right_hip
+        weight: 1
+      - path: Root_GRP/root/hip/right_hip/right_knee
+        weight: 1
+      - path: Root_GRP/root/hip/right_hip/right_knee/right_ankle
+        weight: 1
+      - path: Root_GRP/root/hip/right_hip/right_knee/right_ankle/right_foot
+        weight: 1
+      - path: Root_GRP/root/hip/right_hip/right_knee/right_ankle/right_foot/right_toe
+        weight: 1
+      - path: Root_GRP/root/hip/right_strand2
+        weight: 1
+      - path: Root_GRP/root/hip/right_strand2/right_strand1
+        weight: 1
+      - path: Root_GRP/root/hip/right_strand4
+        weight: 1
+      - path: Root_GRP/root/hip/right_strand4/right_strand3
+        weight: 1
+      - path: Root_GRP/root/hip/right_strand6
+        weight: 1
+      - path: Root_GRP/root/hip/right_strand6/right_strand5
+        weight: 1
+      - path: Root_GRP/root/hip/right_strand8
+        weight: 1
+      - path: Root_GRP/root/hip/right_strand8/right_strand7
+        weight: 1
+      - path: Root_GRP/root/hip/right_strand10
+        weight: 1
+      - path: Root_GRP/root/hip/right_strand10/right_strand9
+        weight: 1
+      - path: Root_GRP/root/hip/right_strand12
+        weight: 1
+      - path: Root_GRP/root/hip/right_strand12/right_strand11
+        weight: 1
+      - path: Root_GRP/root/hip/right_strand14
+        weight: 1
+      - path: Root_GRP/root/hip/right_strand14/right_strand13
+        weight: 1
+      - path: Root_GRP/root/hip/right_strand16
+        weight: 1
+      - path: Root_GRP/root/hip/right_strand16/right_strand15
+        weight: 1
+      - path: Root_GRP/root/hip/right_strand18
+        weight: 1
+      - path: Root_GRP/root/hip/right_strand18/right_strand17
+        weight: 1
+      - path: Root_GRP/root/hip/right_strand20
+        weight: 1
+      - path: Root_GRP/root/hip/right_strand20/right_strand19
+        weight: 1
+      - path: Root_GRP/root/hip/right_strand22
+        weight: 1
+      - path: Root_GRP/root/hip/right_strand22/right_strand21
+        weight: 1
+      - path: Root_GRP/root/hip/right_strand24
+        weight: 1
+      - path: Root_GRP/root/hip/right_strand24/right_strand23
+        weight: 1
+      - path: Root_GRP/root/hip/right_strand26
+        weight: 1
+      - path: Root_GRP/root/hip/right_strand26/right_strand25
+        weight: 1
+      - path: Root_GRP/root/hip/right_strand28
+        weight: 1
+      - path: Root_GRP/root/hip/right_strand28/right_strand27
+        weight: 1
+      - path: Root_GRP/root/hip/right_strand30
+        weight: 1
+      - path: Root_GRP/root/hip/right_strand30/right_strand29
+        weight: 1
+      - path: Root_GRP/root/hip/right_strand32
+        weight: 1
+      - path: Root_GRP/root/hip/right_strand32/right_strand31
+        weight: 1
+      - path: Root_GRP/root/hip/right_strand34
+        weight: 1
+      - path: Root_GRP/root/hip/right_strand34/right_strand33
+        weight: 1
+      - path: Root_GRP/root/hip/right_strand36
+        weight: 1
+      - path: Root_GRP/root/hip/right_strand36/right_strand35
+        weight: 1
+      - path: Root_GRP/root/hip/right_strand38
+        weight: 1
+      - path: Root_GRP/root/hip/right_strand38/right_strand37
+        weight: 1
+      - path: Root_GRP/root/hip/right_strand40
+        weight: 1
+      - path: Root_GRP/root/hip/right_strand40/right_strand39
+        weight: 1
+      - path: Root_GRP/root/hip/right_strand42
+        weight: 1
+      - path: Root_GRP/root/hip/right_strand42/right_strand41
+        weight: 1
+      - path: Root_GRP/root/hip/right_strand44
+        weight: 1
+      - path: Root_GRP/root/hip/right_strand44/right_strand43
+        weight: 1
+      - path: Root_GRP/root/hip/right_strand46
+        weight: 1
+      - path: Root_GRP/root/hip/right_strand46/right_strand45
+        weight: 1
+      - path: Root_GRP/root/hip/right_strand48
+        weight: 1
+      - path: Root_GRP/root/hip/right_strand48/right_strand47
+        weight: 1
+      - path: Root_GRP/root/hip/right_strand50
+        weight: 1
+      - path: Root_GRP/root/hip/right_strand50/right_strand49
+        weight: 1
+      - path: Root_GRP/root/hip/right_strand52
+        weight: 1
+      - path: Root_GRP/root/hip/right_strand52/right_strand51
+        weight: 1
+      - path: Root_GRP/root/hip/right_strand54
+        weight: 1
+      - path: Root_GRP/root/hip/right_strand54/right_strand53
+        weight: 1
+      - path: Root_GRP/root/hip/right_strand56
+        weight: 1
+      - path: Root_GRP/root/hip/right_strand56/right_strand55
+        weight: 1
+      - path: Root_GRP/root/hip/right_strand58
+        weight: 1
+      - path: Root_GRP/root/hip/right_strand58/right_strand57
+        weight: 1
+      - path: Root_GRP/root/hip/right_strand60
+        weight: 1
+      - path: Root_GRP/root/hip/right_strand60/right_strand59
+        weight: 1
+      - path: Root_GRP/root/hip/right_strand62
+        weight: 1
+      - path: Root_GRP/root/hip/right_strand62/right_strand61
+        weight: 1
+      - path: Root_GRP/root/hip/right_strand64
+        weight: 1
+      - path: Root_GRP/root/hip/right_strand64/right_strand63
+        weight: 1
+      - path: Root_GRP/root/hip/right_strand65
+        weight: 1
+      - path: Root_GRP/root/hip/right_strand65/right_strand15 1
+        weight: 1
+      - path: Root_GRP/root/hip/right_strand66
+        weight: 1
+      - path: Root_GRP/root/hip/right_strand66/right_strand15 2
+        weight: 1
+      - path: Root_GRP/root/hip/right_strand67
+        weight: 1
+      - path: Root_GRP/root/hip/right_strand67/right_strand15 3
+        weight: 1
+      - path: Root_GRP/root/hip/tail
+        weight: 1
+      - path: Root_GRP/root/hip/tail1
+        weight: 1
+      - path: Root_GRP/root/hip/tail1/tail2
+        weight: 1
+      - path: Root_GRP/root/hip/tail1/tail2/tail3
+        weight: 1
+      - path: Root_GRP/root/hip/tail1/tail2/tail3/tail_top
+        weight: 1
+      - path: Root_GRP/root/spline
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

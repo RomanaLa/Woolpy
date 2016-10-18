@@ -1,0 +1,899 @@
+fileFormatVersion: 2
+guid: 19a1012f073df2d4cb4309656840f3e9
+timeCreated: 1466522232
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: body_mesh
+    100004: eyes
+    100006: ikHandle_left_wing_down
+    100008: ikHandle_left_wing_up
+    100010: ikHandle_right_wing_down
+    100012: ikHandle_right_wing_up
+    100014: left_wing_down
+    100016: left_wing_down2
+    100018: left_wing_down3
+    100020: left_wing_down4
+    100022: left_wing_up
+    100024: left_wing_up2
+    100026: left_wing_up3
+    100028: left_wing_up4
+    100030: pasted__back1
+    100032: pasted__back2
+    100034: pasted__cluster_abs
+    100036: pasted__cluster_abs 1
+    100038: pasted__cluster_chest
+    100040: pasted__cluster_chest 1
+    100042: pasted__cluster_hip
+    100044: pasted__cluster_hip 1
+    100046: pasted__cluster_top
+    100048: pasted__cluster_top 1
+    100050: pasted__hip
+    100052: pasted__IK_GRP
+    100054: pasted__ikHandle_left_knee
+    100056: pasted__ikhandle_nase
+    100058: pasted__ikHandle_right_knee
+    100060: pasted__ikHandle_spline
+    100062: pasted__left_ankle
+    100064: pasted__left_foot
+    100066: pasted__left_hip
+    100068: pasted__left_knee
+    100070: pasted__left_strand1
+    100072: pasted__left_strand10
+    100074: pasted__left_strand11
+    100076: pasted__left_strand12
+    100078: pasted__left_strand13
+    100080: pasted__left_strand14
+    100082: pasted__left_strand15
+    100084: pasted__left_strand15 1
+    100086: pasted__left_strand15 2
+    100088: pasted__left_strand15 3
+    100090: pasted__left_strand16
+    100092: pasted__left_strand17
+    100094: pasted__left_strand18
+    100096: pasted__left_strand19
+    100098: pasted__left_strand2
+    100100: pasted__left_strand20
+    100102: pasted__left_strand21
+    100104: pasted__left_strand22
+    100106: pasted__left_strand23
+    100108: pasted__left_strand24
+    100110: pasted__left_strand25
+    100112: pasted__left_strand26
+    100114: pasted__left_strand27
+    100116: pasted__left_strand28
+    100118: pasted__left_strand29
+    100120: pasted__left_strand3
+    100122: pasted__left_strand30
+    100124: pasted__left_strand31
+    100126: pasted__left_strand32
+    100128: pasted__left_strand33
+    100130: pasted__left_strand34
+    100132: pasted__left_strand35
+    100134: pasted__left_strand36
+    100136: pasted__left_strand37
+    100138: pasted__left_strand38
+    100140: pasted__left_strand39
+    100142: pasted__left_strand4
+    100144: pasted__left_strand40
+    100146: pasted__left_strand41
+    100148: pasted__left_strand42
+    100150: pasted__left_strand43
+    100152: pasted__left_strand44
+    100154: pasted__left_strand45
+    100156: pasted__left_strand46
+    100158: pasted__left_strand47
+    100160: pasted__left_strand48
+    100162: pasted__left_strand49
+    100164: pasted__left_strand5
+    100166: pasted__left_strand50
+    100168: pasted__left_strand51
+    100170: pasted__left_strand52
+    100172: pasted__left_strand53
+    100174: pasted__left_strand54
+    100176: pasted__left_strand55
+    100178: pasted__left_strand56
+    100180: pasted__left_strand57
+    100182: pasted__left_strand58
+    100184: pasted__left_strand59
+    100186: pasted__left_strand6
+    100188: pasted__left_strand60
+    100190: pasted__left_strand61
+    100192: pasted__left_strand62
+    100194: pasted__left_strand63
+    100196: pasted__left_strand64
+    100198: pasted__left_strand65
+    100200: pasted__left_strand66
+    100202: pasted__left_strand67
+    100204: pasted__left_strand7
+    100206: pasted__left_strand8
+    100208: pasted__left_strand9
+    100210: pasted__left_toe
+    100212: pasted__nase
+    100214: pasted__nasenspitze
+    100216: pasted__right_ankle
+    100218: pasted__right_foot
+    100220: pasted__right_hip
+    100222: pasted__right_knee
+    100224: pasted__right_strand1
+    100226: pasted__right_strand10
+    100228: pasted__right_strand11
+    100230: pasted__right_strand12
+    100232: pasted__right_strand13
+    100234: pasted__right_strand14
+    100236: pasted__right_strand15
+    100238: pasted__right_strand15 1
+    100240: pasted__right_strand15 2
+    100242: pasted__right_strand15 3
+    100244: pasted__right_strand16
+    100246: pasted__right_strand17
+    100248: pasted__right_strand18
+    100250: pasted__right_strand19
+    100252: pasted__right_strand2
+    100254: pasted__right_strand20
+    100256: pasted__right_strand21
+    100258: pasted__right_strand22
+    100260: pasted__right_strand23
+    100262: pasted__right_strand24
+    100264: pasted__right_strand25
+    100266: pasted__right_strand26
+    100268: pasted__right_strand27
+    100270: pasted__right_strand28
+    100272: pasted__right_strand29
+    100274: pasted__right_strand3
+    100276: pasted__right_strand30
+    100278: pasted__right_strand31
+    100280: pasted__right_strand32
+    100282: pasted__right_strand33
+    100284: pasted__right_strand34
+    100286: pasted__right_strand35
+    100288: pasted__right_strand36
+    100290: pasted__right_strand37
+    100292: pasted__right_strand38
+    100294: pasted__right_strand39
+    100296: pasted__right_strand4
+    100298: pasted__right_strand40
+    100300: pasted__right_strand41
+    100302: pasted__right_strand42
+    100304: pasted__right_strand43
+    100306: pasted__right_strand44
+    100308: pasted__right_strand45
+    100310: pasted__right_strand46
+    100312: pasted__right_strand47
+    100314: pasted__right_strand48
+    100316: pasted__right_strand49
+    100318: pasted__right_strand5
+    100320: pasted__right_strand50
+    100322: pasted__right_strand51
+    100324: pasted__right_strand52
+    100326: pasted__right_strand53
+    100328: pasted__right_strand54
+    100330: pasted__right_strand55
+    100332: pasted__right_strand56
+    100334: pasted__right_strand57
+    100336: pasted__right_strand58
+    100338: pasted__right_strand59
+    100340: pasted__right_strand6
+    100342: pasted__right_strand60
+    100344: pasted__right_strand61
+    100346: pasted__right_strand62
+    100348: pasted__right_strand63
+    100350: pasted__right_strand64
+    100352: pasted__right_strand65
+    100354: pasted__right_strand66
+    100356: pasted__right_strand67
+    100358: pasted__right_strand7
+    100360: pasted__right_strand8
+    100362: pasted__right_strand9
+    100364: pasted__right_toe
+    100366: pasted__root
+    100368: pasted__Root_GRP
+    100370: pasted__spline
+    100372: pasted__top
+    100374: right_wing_down
+    100376: right_wing_down2
+    100378: right_wing_down3
+    100380: right_wing_down4
+    100382: right_wing_up
+    100384: right_wing_up2
+    100386: right_wing_up3
+    100388: right_wing_up4
+    100390: wings
+    400000: //RootNode
+    400002: body_mesh
+    400004: eyes
+    400006: ikHandle_left_wing_down
+    400008: ikHandle_left_wing_up
+    400010: ikHandle_right_wing_down
+    400012: ikHandle_right_wing_up
+    400014: left_wing_down
+    400016: left_wing_down2
+    400018: left_wing_down3
+    400020: left_wing_down4
+    400022: left_wing_up
+    400024: left_wing_up2
+    400026: left_wing_up3
+    400028: left_wing_up4
+    400030: pasted__back1
+    400032: pasted__back2
+    400034: pasted__cluster_abs
+    400036: pasted__cluster_abs 1
+    400038: pasted__cluster_chest
+    400040: pasted__cluster_chest 1
+    400042: pasted__cluster_hip
+    400044: pasted__cluster_hip 1
+    400046: pasted__cluster_top
+    400048: pasted__cluster_top 1
+    400050: pasted__hip
+    400052: pasted__IK_GRP
+    400054: pasted__ikHandle_left_knee
+    400056: pasted__ikhandle_nase
+    400058: pasted__ikHandle_right_knee
+    400060: pasted__ikHandle_spline
+    400062: pasted__left_ankle
+    400064: pasted__left_foot
+    400066: pasted__left_hip
+    400068: pasted__left_knee
+    400070: pasted__left_strand1
+    400072: pasted__left_strand10
+    400074: pasted__left_strand11
+    400076: pasted__left_strand12
+    400078: pasted__left_strand13
+    400080: pasted__left_strand14
+    400082: pasted__left_strand15
+    400084: pasted__left_strand15 1
+    400086: pasted__left_strand15 2
+    400088: pasted__left_strand15 3
+    400090: pasted__left_strand16
+    400092: pasted__left_strand17
+    400094: pasted__left_strand18
+    400096: pasted__left_strand19
+    400098: pasted__left_strand2
+    400100: pasted__left_strand20
+    400102: pasted__left_strand21
+    400104: pasted__left_strand22
+    400106: pasted__left_strand23
+    400108: pasted__left_strand24
+    400110: pasted__left_strand25
+    400112: pasted__left_strand26
+    400114: pasted__left_strand27
+    400116: pasted__left_strand28
+    400118: pasted__left_strand29
+    400120: pasted__left_strand3
+    400122: pasted__left_strand30
+    400124: pasted__left_strand31
+    400126: pasted__left_strand32
+    400128: pasted__left_strand33
+    400130: pasted__left_strand34
+    400132: pasted__left_strand35
+    400134: pasted__left_strand36
+    400136: pasted__left_strand37
+    400138: pasted__left_strand38
+    400140: pasted__left_strand39
+    400142: pasted__left_strand4
+    400144: pasted__left_strand40
+    400146: pasted__left_strand41
+    400148: pasted__left_strand42
+    400150: pasted__left_strand43
+    400152: pasted__left_strand44
+    400154: pasted__left_strand45
+    400156: pasted__left_strand46
+    400158: pasted__left_strand47
+    400160: pasted__left_strand48
+    400162: pasted__left_strand49
+    400164: pasted__left_strand5
+    400166: pasted__left_strand50
+    400168: pasted__left_strand51
+    400170: pasted__left_strand52
+    400172: pasted__left_strand53
+    400174: pasted__left_strand54
+    400176: pasted__left_strand55
+    400178: pasted__left_strand56
+    400180: pasted__left_strand57
+    400182: pasted__left_strand58
+    400184: pasted__left_strand59
+    400186: pasted__left_strand6
+    400188: pasted__left_strand60
+    400190: pasted__left_strand61
+    400192: pasted__left_strand62
+    400194: pasted__left_strand63
+    400196: pasted__left_strand64
+    400198: pasted__left_strand65
+    400200: pasted__left_strand66
+    400202: pasted__left_strand67
+    400204: pasted__left_strand7
+    400206: pasted__left_strand8
+    400208: pasted__left_strand9
+    400210: pasted__left_toe
+    400212: pasted__nase
+    400214: pasted__nasenspitze
+    400216: pasted__right_ankle
+    400218: pasted__right_foot
+    400220: pasted__right_hip
+    400222: pasted__right_knee
+    400224: pasted__right_strand1
+    400226: pasted__right_strand10
+    400228: pasted__right_strand11
+    400230: pasted__right_strand12
+    400232: pasted__right_strand13
+    400234: pasted__right_strand14
+    400236: pasted__right_strand15
+    400238: pasted__right_strand15 1
+    400240: pasted__right_strand15 2
+    400242: pasted__right_strand15 3
+    400244: pasted__right_strand16
+    400246: pasted__right_strand17
+    400248: pasted__right_strand18
+    400250: pasted__right_strand19
+    400252: pasted__right_strand2
+    400254: pasted__right_strand20
+    400256: pasted__right_strand21
+    400258: pasted__right_strand22
+    400260: pasted__right_strand23
+    400262: pasted__right_strand24
+    400264: pasted__right_strand25
+    400266: pasted__right_strand26
+    400268: pasted__right_strand27
+    400270: pasted__right_strand28
+    400272: pasted__right_strand29
+    400274: pasted__right_strand3
+    400276: pasted__right_strand30
+    400278: pasted__right_strand31
+    400280: pasted__right_strand32
+    400282: pasted__right_strand33
+    400284: pasted__right_strand34
+    400286: pasted__right_strand35
+    400288: pasted__right_strand36
+    400290: pasted__right_strand37
+    400292: pasted__right_strand38
+    400294: pasted__right_strand39
+    400296: pasted__right_strand4
+    400298: pasted__right_strand40
+    400300: pasted__right_strand41
+    400302: pasted__right_strand42
+    400304: pasted__right_strand43
+    400306: pasted__right_strand44
+    400308: pasted__right_strand45
+    400310: pasted__right_strand46
+    400312: pasted__right_strand47
+    400314: pasted__right_strand48
+    400316: pasted__right_strand49
+    400318: pasted__right_strand5
+    400320: pasted__right_strand50
+    400322: pasted__right_strand51
+    400324: pasted__right_strand52
+    400326: pasted__right_strand53
+    400328: pasted__right_strand54
+    400330: pasted__right_strand55
+    400332: pasted__right_strand56
+    400334: pasted__right_strand57
+    400336: pasted__right_strand58
+    400338: pasted__right_strand59
+    400340: pasted__right_strand6
+    400342: pasted__right_strand60
+    400344: pasted__right_strand61
+    400346: pasted__right_strand62
+    400348: pasted__right_strand63
+    400350: pasted__right_strand64
+    400352: pasted__right_strand65
+    400354: pasted__right_strand66
+    400356: pasted__right_strand67
+    400358: pasted__right_strand7
+    400360: pasted__right_strand8
+    400362: pasted__right_strand9
+    400364: pasted__right_toe
+    400366: pasted__root
+    400368: pasted__Root_GRP
+    400370: pasted__spline
+    400372: pasted__top
+    400374: right_wing_down
+    400376: right_wing_down2
+    400378: right_wing_down3
+    400380: right_wing_down4
+    400382: right_wing_up
+    400384: right_wing_up2
+    400386: right_wing_up3
+    400388: right_wing_up4
+    400390: wings
+    4300000: body_mesh
+    4300002: eyes
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: body_mesh
+    13700002: eyes
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 49
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: body_mesh
+        weight: 1
+      - path: eyes
+        weight: 1
+      - path: pasted__IK_GRP
+        weight: 1
+      - path: pasted__IK_GRP/ikHandle_left_wing_down
+        weight: 1
+      - path: pasted__IK_GRP/ikHandle_left_wing_up
+        weight: 1
+      - path: pasted__IK_GRP/ikHandle_right_wing_down
+        weight: 1
+      - path: pasted__IK_GRP/ikHandle_right_wing_up
+        weight: 1
+      - path: pasted__IK_GRP/pasted__ikHandle_left_knee
+        weight: 1
+      - path: pasted__IK_GRP/pasted__ikhandle_nase
+        weight: 1
+      - path: pasted__IK_GRP/pasted__ikHandle_right_knee
+        weight: 1
+      - path: pasted__IK_GRP/pasted__ikHandle_spline
+        weight: 1
+      - path: pasted__Root_GRP
+        weight: 1
+      - path: pasted__Root_GRP/pasted__root
+        weight: 1
+      - path: pasted__Root_GRP/pasted__root/pasted__cluster_abs
+        weight: 1
+      - path: pasted__Root_GRP/pasted__root/pasted__cluster_abs/pasted__cluster_abs
+          1
+        weight: 1
+      - path: pasted__Root_GRP/pasted__root/pasted__cluster_chest
+        weight: 1
+      - path: pasted__Root_GRP/pasted__root/pasted__cluster_chest/pasted__cluster_chest
+          1
+        weight: 1
+      - path: pasted__Root_GRP/pasted__root/pasted__cluster_hip
+        weight: 1
+      - path: pasted__Root_GRP/pasted__root/pasted__cluster_hip/pasted__cluster_hip
+          1
+        weight: 1
+      - path: pasted__Root_GRP/pasted__root/pasted__cluster_top
+        weight: 1
+      - path: pasted__Root_GRP/pasted__root/pasted__cluster_top/pasted__cluster_top
+          1
+        weight: 1
+      - path: pasted__Root_GRP/pasted__root/pasted__hip
+        weight: 1
+      - path: pasted__Root_GRP/pasted__root/pasted__hip/pasted__back1
+        weight: 1
+      - path: pasted__Root_GRP/pasted__root/pasted__hip/pasted__back1/pasted__back2
+        weight: 1
+      - path: pasted__Root_GRP/pasted__root/pasted__hip/pasted__back1/pasted__back2/pasted__top
+        weight: 1
+      - path: pasted__Root_GRP/pasted__root/pasted__hip/pasted__left_hip
+        weight: 1
+      - path: pasted__Root_GRP/pasted__root/pasted__hip/pasted__left_hip/pasted__left_knee
+        weight: 1
+      - path: pasted__Root_GRP/pasted__root/pasted__hip/pasted__left_hip/pasted__left_knee/pasted__left_ankle
+        weight: 1
+      - path: pasted__Root_GRP/pasted__root/pasted__hip/pasted__left_hip/pasted__left_knee/pasted__left_ankle/pasted__left_foot
+        weight: 1
+      - path: pasted__Root_GRP/pasted__root/pasted__hip/pasted__left_hip/pasted__left_knee/pasted__left_ankle/pasted__left_foot/pasted__left_toe
+        weight: 1
+      - path: pasted__Root_GRP/pasted__root/pasted__hip/pasted__left_strand2
+        weight: 1
+      - path: pasted__Root_GRP/pasted__root/pasted__hip/pasted__left_strand2/pasted__left_strand1
+        weight: 1
+      - path: pasted__Root_GRP/pasted__root/pasted__hip/pasted__left_strand4
+        weight: 1
+      - path: pasted__Root_GRP/pasted__root/pasted__hip/pasted__left_strand4/pasted__left_strand3
+        weight: 1
+      - path: pasted__Root_GRP/pasted__root/pasted__hip/pasted__left_strand6
+        weight: 1
+      - path: pasted__Root_GRP/pasted__root/pasted__hip/pasted__left_strand6/pasted__left_strand5
+        weight: 1
+      - path: pasted__Root_GRP/pasted__root/pasted__hip/pasted__left_strand8
+        weight: 1
+      - path: pasted__Root_GRP/pasted__root/pasted__hip/pasted__left_strand8/pasted__left_strand7
+        weight: 1
+      - path: pasted__Root_GRP/pasted__root/pasted__hip/pasted__left_strand10
+        weight: 1
+      - path: pasted__Root_GRP/pasted__root/pasted__hip/pasted__left_strand10/pasted__left_strand9
+        weight: 1
+      - path: pasted__Root_GRP/pasted__root/pasted__hip/pasted__left_strand12
+        weight: 1
+      - path: pasted__Root_GRP/pasted__root/pasted__hip/pasted__left_strand12/pasted__left_strand11
+        weight: 1
+      - path: pasted__Root_GRP/pasted__root/pasted__hip/pasted__left_strand14
+        weight: 1
+      - path: pasted__Root_GRP/pasted__root/pasted__hip/pasted__left_strand14/pasted__left_strand13
+        weight: 1
+      - path: pasted__Root_GRP/pasted__root/pasted__hip/pasted__left_strand16
+        weight: 1
+      - path: pasted__Root_GRP/pasted__root/pasted__hip/pasted__left_strand16/pasted__left_strand15
+        weight: 1
+      - path: pasted__Root_GRP/pasted__root/pasted__hip/pasted__left_strand18
+        weight: 1
+      - path: pasted__Root_GRP/pasted__root/pasted__hip/pasted__left_strand18/pasted__left_strand17
+        weight: 1
+      - path: pasted__Root_GRP/pasted__root/pasted__hip/pasted__left_strand20
+        weight: 1
+      - path: pasted__Root_GRP/pasted__root/pasted__hip/pasted__left_strand20/pasted__left_strand19
+        weight: 1
+      - path: pasted__Root_GRP/pasted__root/pasted__hip/pasted__left_strand22
+        weight: 1
+      - path: pasted__Root_GRP/pasted__root/pasted__hip/pasted__left_strand22/pasted__left_strand21
+        weight: 1
+      - path: pasted__Root_GRP/pasted__root/pasted__hip/pasted__left_strand24
+        weight: 1
+      - path: pasted__Root_GRP/pasted__root/pasted__hip/pasted__left_strand24/pasted__left_strand23
+        weight: 1
+      - path: pasted__Root_GRP/pasted__root/pasted__hip/pasted__left_strand26
+        weight: 1
+      - path: pasted__Root_GRP/pasted__root/pasted__hip/pasted__left_strand26/pasted__left_strand25
+        weight: 1
+      - path: pasted__Root_GRP/pasted__root/pasted__hip/pasted__left_strand28
+        weight: 1
+      - path: pasted__Root_GRP/pasted__root/pasted__hip/pasted__left_strand28/pasted__left_strand27
+        weight: 1
+      - path: pasted__Root_GRP/pasted__root/pasted__hip/pasted__left_strand30
+        weight: 1
+      - path: pasted__Root_GRP/pasted__root/pasted__hip/pasted__left_strand30/pasted__left_strand29
+        weight: 1
+      - path: pasted__Root_GRP/pasted__root/pasted__hip/pasted__left_strand32
+        weight: 1
+      - path: pasted__Root_GRP/pasted__root/pasted__hip/pasted__left_strand32/pasted__left_strand31
+        weight: 1
+      - path: pasted__Root_GRP/pasted__root/pasted__hip/pasted__left_strand34
+        weight: 1
+      - path: pasted__Root_GRP/pasted__root/pasted__hip/pasted__left_strand34/pasted__left_strand33
+        weight: 1
+      - path: pasted__Root_GRP/pasted__root/pasted__hip/pasted__left_strand36
+        weight: 1
+      - path: pasted__Root_GRP/pasted__root/pasted__hip/pasted__left_strand36/pasted__left_strand35
+        weight: 1
+      - path: pasted__Root_GRP/pasted__root/pasted__hip/pasted__left_strand38
+        weight: 1
+      - path: pasted__Root_GRP/pasted__root/pasted__hip/pasted__left_strand38/pasted__left_strand37
+        weight: 1
+      - path: pasted__Root_GRP/pasted__root/pasted__hip/pasted__left_strand40
+        weight: 1
+      - path: pasted__Root_GRP/pasted__root/pasted__hip/pasted__left_strand40/pasted__left_strand39
+        weight: 1
+      - path: pasted__Root_GRP/pasted__root/pasted__hip/pasted__left_strand42
+        weight: 1
+      - path: pasted__Root_GRP/pasted__root/pasted__hip/pasted__left_strand42/pasted__left_strand41
+        weight: 1
+      - path: pasted__Root_GRP/pasted__root/pasted__hip/pasted__left_strand44
+        weight: 1
+      - path: pasted__Root_GRP/pasted__root/pasted__hip/pasted__left_strand44/pasted__left_strand43
+        weight: 1
+      - path: pasted__Root_GRP/pasted__root/pasted__hip/pasted__left_strand46
+        weight: 1
+      - path: pasted__Root_GRP/pasted__root/pasted__hip/pasted__left_strand46/pasted__left_strand45
+        weight: 1
+      - path: pasted__Root_GRP/pasted__root/pasted__hip/pasted__left_strand48
+        weight: 1
+      - path: pasted__Root_GRP/pasted__root/pasted__hip/pasted__left_strand48/pasted__left_strand47
+        weight: 1
+      - path: pasted__Root_GRP/pasted__root/pasted__hip/pasted__left_strand50
+        weight: 1
+      - path: pasted__Root_GRP/pasted__root/pasted__hip/pasted__left_strand50/pasted__left_strand49
+        weight: 1
+      - path: pasted__Root_GRP/pasted__root/pasted__hip/pasted__left_strand52
+        weight: 1
+      - path: pasted__Root_GRP/pasted__root/pasted__hip/pasted__left_strand52/pasted__left_strand51
+        weight: 1
+      - path: pasted__Root_GRP/pasted__root/pasted__hip/pasted__left_strand54
+        weight: 1
+      - path: pasted__Root_GRP/pasted__root/pasted__hip/pasted__left_strand54/pasted__left_strand53
+        weight: 1
+      - path: pasted__Root_GRP/pasted__root/pasted__hip/pasted__left_strand56
+        weight: 1
+      - path: pasted__Root_GRP/pasted__root/pasted__hip/pasted__left_strand56/pasted__left_strand55
+        weight: 1
+      - path: pasted__Root_GRP/pasted__root/pasted__hip/pasted__left_strand58
+        weight: 1
+      - path: pasted__Root_GRP/pasted__root/pasted__hip/pasted__left_strand58/pasted__left_strand57
+        weight: 1
+      - path: pasted__Root_GRP/pasted__root/pasted__hip/pasted__left_strand60
+        weight: 1
+      - path: pasted__Root_GRP/pasted__root/pasted__hip/pasted__left_strand60/pasted__left_strand59
+        weight: 1
+      - path: pasted__Root_GRP/pasted__root/pasted__hip/pasted__left_strand62
+        weight: 1
+      - path: pasted__Root_GRP/pasted__root/pasted__hip/pasted__left_strand62/pasted__left_strand61
+        weight: 1
+      - path: pasted__Root_GRP/pasted__root/pasted__hip/pasted__left_strand64
+        weight: 1
+      - path: pasted__Root_GRP/pasted__root/pasted__hip/pasted__left_strand64/pasted__left_strand63
+        weight: 1
+      - path: pasted__Root_GRP/pasted__root/pasted__hip/pasted__left_strand65
+        weight: 1
+      - path: pasted__Root_GRP/pasted__root/pasted__hip/pasted__left_strand65/pasted__left_strand15
+          1
+        weight: 1
+      - path: pasted__Root_GRP/pasted__root/pasted__hip/pasted__left_strand66
+        weight: 1
+      - path: pasted__Root_GRP/pasted__root/pasted__hip/pasted__left_strand66/pasted__left_strand15
+          2
+        weight: 1
+      - path: pasted__Root_GRP/pasted__root/pasted__hip/pasted__left_strand67
+        weight: 1
+      - path: pasted__Root_GRP/pasted__root/pasted__hip/pasted__left_strand67/pasted__left_strand15
+          3
+        weight: 1
+      - path: pasted__Root_GRP/pasted__root/pasted__hip/pasted__nase
+        weight: 1
+      - path: pasted__Root_GRP/pasted__root/pasted__hip/pasted__nase/pasted__nasenspitze
+        weight: 1
+      - path: pasted__Root_GRP/pasted__root/pasted__hip/pasted__right_hip
+        weight: 1
+      - path: pasted__Root_GRP/pasted__root/pasted__hip/pasted__right_hip/pasted__right_knee
+        weight: 1
+      - path: pasted__Root_GRP/pasted__root/pasted__hip/pasted__right_hip/pasted__right_knee/pasted__right_ankle
+        weight: 1
+      - path: pasted__Root_GRP/pasted__root/pasted__hip/pasted__right_hip/pasted__right_knee/pasted__right_ankle/pasted__right_foot
+        weight: 1
+      - path: pasted__Root_GRP/pasted__root/pasted__hip/pasted__right_hip/pasted__right_knee/pasted__right_ankle/pasted__right_foot/pasted__right_toe
+        weight: 1
+      - path: pasted__Root_GRP/pasted__root/pasted__hip/pasted__right_strand2
+        weight: 1
+      - path: pasted__Root_GRP/pasted__root/pasted__hip/pasted__right_strand2/pasted__right_strand1
+        weight: 1
+      - path: pasted__Root_GRP/pasted__root/pasted__hip/pasted__right_strand4
+        weight: 1
+      - path: pasted__Root_GRP/pasted__root/pasted__hip/pasted__right_strand4/pasted__right_strand3
+        weight: 1
+      - path: pasted__Root_GRP/pasted__root/pasted__hip/pasted__right_strand6
+        weight: 1
+      - path: pasted__Root_GRP/pasted__root/pasted__hip/pasted__right_strand6/pasted__right_strand5
+        weight: 1
+      - path: pasted__Root_GRP/pasted__root/pasted__hip/pasted__right_strand8
+        weight: 1
+      - path: pasted__Root_GRP/pasted__root/pasted__hip/pasted__right_strand8/pasted__right_strand7
+        weight: 1
+      - path: pasted__Root_GRP/pasted__root/pasted__hip/pasted__right_strand10
+        weight: 1
+      - path: pasted__Root_GRP/pasted__root/pasted__hip/pasted__right_strand10/pasted__right_strand9
+        weight: 1
+      - path: pasted__Root_GRP/pasted__root/pasted__hip/pasted__right_strand12
+        weight: 1
+      - path: pasted__Root_GRP/pasted__root/pasted__hip/pasted__right_strand12/pasted__right_strand11
+        weight: 1
+      - path: pasted__Root_GRP/pasted__root/pasted__hip/pasted__right_strand14
+        weight: 1
+      - path: pasted__Root_GRP/pasted__root/pasted__hip/pasted__right_strand14/pasted__right_strand13
+        weight: 1
+      - path: pasted__Root_GRP/pasted__root/pasted__hip/pasted__right_strand16
+        weight: 1
+      - path: pasted__Root_GRP/pasted__root/pasted__hip/pasted__right_strand16/pasted__right_strand15
+        weight: 1
+      - path: pasted__Root_GRP/pasted__root/pasted__hip/pasted__right_strand18
+        weight: 1
+      - path: pasted__Root_GRP/pasted__root/pasted__hip/pasted__right_strand18/pasted__right_strand17
+        weight: 1
+      - path: pasted__Root_GRP/pasted__root/pasted__hip/pasted__right_strand20
+        weight: 1
+      - path: pasted__Root_GRP/pasted__root/pasted__hip/pasted__right_strand20/pasted__right_strand19
+        weight: 1
+      - path: pasted__Root_GRP/pasted__root/pasted__hip/pasted__right_strand22
+        weight: 1
+      - path: pasted__Root_GRP/pasted__root/pasted__hip/pasted__right_strand22/pasted__right_strand21
+        weight: 1
+      - path: pasted__Root_GRP/pasted__root/pasted__hip/pasted__right_strand24
+        weight: 1
+      - path: pasted__Root_GRP/pasted__root/pasted__hip/pasted__right_strand24/pasted__right_strand23
+        weight: 1
+      - path: pasted__Root_GRP/pasted__root/pasted__hip/pasted__right_strand26
+        weight: 1
+      - path: pasted__Root_GRP/pasted__root/pasted__hip/pasted__right_strand26/pasted__right_strand25
+        weight: 1
+      - path: pasted__Root_GRP/pasted__root/pasted__hip/pasted__right_strand28
+        weight: 1
+      - path: pasted__Root_GRP/pasted__root/pasted__hip/pasted__right_strand28/pasted__right_strand27
+        weight: 1
+      - path: pasted__Root_GRP/pasted__root/pasted__hip/pasted__right_strand30
+        weight: 1
+      - path: pasted__Root_GRP/pasted__root/pasted__hip/pasted__right_strand30/pasted__right_strand29
+        weight: 1
+      - path: pasted__Root_GRP/pasted__root/pasted__hip/pasted__right_strand32
+        weight: 1
+      - path: pasted__Root_GRP/pasted__root/pasted__hip/pasted__right_strand32/pasted__right_strand31
+        weight: 1
+      - path: pasted__Root_GRP/pasted__root/pasted__hip/pasted__right_strand34
+        weight: 1
+      - path: pasted__Root_GRP/pasted__root/pasted__hip/pasted__right_strand34/pasted__right_strand33
+        weight: 1
+      - path: pasted__Root_GRP/pasted__root/pasted__hip/pasted__right_strand36
+        weight: 1
+      - path: pasted__Root_GRP/pasted__root/pasted__hip/pasted__right_strand36/pasted__right_strand35
+        weight: 1
+      - path: pasted__Root_GRP/pasted__root/pasted__hip/pasted__right_strand38
+        weight: 1
+      - path: pasted__Root_GRP/pasted__root/pasted__hip/pasted__right_strand38/pasted__right_strand37
+        weight: 1
+      - path: pasted__Root_GRP/pasted__root/pasted__hip/pasted__right_strand40
+        weight: 1
+      - path: pasted__Root_GRP/pasted__root/pasted__hip/pasted__right_strand40/pasted__right_strand39
+        weight: 1
+      - path: pasted__Root_GRP/pasted__root/pasted__hip/pasted__right_strand42
+        weight: 1
+      - path: pasted__Root_GRP/pasted__root/pasted__hip/pasted__right_strand42/pasted__right_strand41
+        weight: 1
+      - path: pasted__Root_GRP/pasted__root/pasted__hip/pasted__right_strand44
+        weight: 1
+      - path: pasted__Root_GRP/pasted__root/pasted__hip/pasted__right_strand44/pasted__right_strand43
+        weight: 1
+      - path: pasted__Root_GRP/pasted__root/pasted__hip/pasted__right_strand46
+        weight: 1
+      - path: pasted__Root_GRP/pasted__root/pasted__hip/pasted__right_strand46/pasted__right_strand45
+        weight: 1
+      - path: pasted__Root_GRP/pasted__root/pasted__hip/pasted__right_strand48
+        weight: 1
+      - path: pasted__Root_GRP/pasted__root/pasted__hip/pasted__right_strand48/pasted__right_strand47
+        weight: 1
+      - path: pasted__Root_GRP/pasted__root/pasted__hip/pasted__right_strand50
+        weight: 1
+      - path: pasted__Root_GRP/pasted__root/pasted__hip/pasted__right_strand50/pasted__right_strand49
+        weight: 1
+      - path: pasted__Root_GRP/pasted__root/pasted__hip/pasted__right_strand52
+        weight: 1
+      - path: pasted__Root_GRP/pasted__root/pasted__hip/pasted__right_strand52/pasted__right_strand51
+        weight: 1
+      - path: pasted__Root_GRP/pasted__root/pasted__hip/pasted__right_strand54
+        weight: 1
+      - path: pasted__Root_GRP/pasted__root/pasted__hip/pasted__right_strand54/pasted__right_strand53
+        weight: 1
+      - path: pasted__Root_GRP/pasted__root/pasted__hip/pasted__right_strand56
+        weight: 1
+      - path: pasted__Root_GRP/pasted__root/pasted__hip/pasted__right_strand56/pasted__right_strand55
+        weight: 1
+      - path: pasted__Root_GRP/pasted__root/pasted__hip/pasted__right_strand58
+        weight: 1
+      - path: pasted__Root_GRP/pasted__root/pasted__hip/pasted__right_strand58/pasted__right_strand57
+        weight: 1
+      - path: pasted__Root_GRP/pasted__root/pasted__hip/pasted__right_strand60
+        weight: 1
+      - path: pasted__Root_GRP/pasted__root/pasted__hip/pasted__right_strand60/pasted__right_strand59
+        weight: 1
+      - path: pasted__Root_GRP/pasted__root/pasted__hip/pasted__right_strand62
+        weight: 1
+      - path: pasted__Root_GRP/pasted__root/pasted__hip/pasted__right_strand62/pasted__right_strand61
+        weight: 1
+      - path: pasted__Root_GRP/pasted__root/pasted__hip/pasted__right_strand64
+        weight: 1
+      - path: pasted__Root_GRP/pasted__root/pasted__hip/pasted__right_strand64/pasted__right_strand63
+        weight: 1
+      - path: pasted__Root_GRP/pasted__root/pasted__hip/pasted__right_strand65
+        weight: 1
+      - path: pasted__Root_GRP/pasted__root/pasted__hip/pasted__right_strand65/pasted__right_strand15
+          1
+        weight: 1
+      - path: pasted__Root_GRP/pasted__root/pasted__hip/pasted__right_strand66
+        weight: 1
+      - path: pasted__Root_GRP/pasted__root/pasted__hip/pasted__right_strand66/pasted__right_strand15
+          2
+        weight: 1
+      - path: pasted__Root_GRP/pasted__root/pasted__hip/pasted__right_strand67
+        weight: 1
+      - path: pasted__Root_GRP/pasted__root/pasted__hip/pasted__right_strand67/pasted__right_strand15
+          3
+        weight: 1
+      - path: pasted__Root_GRP/pasted__root/pasted__hip/wings
+        weight: 1
+      - path: pasted__Root_GRP/pasted__root/pasted__hip/wings/left_wing_down
+        weight: 1
+      - path: pasted__Root_GRP/pasted__root/pasted__hip/wings/left_wing_down/left_wing_down2
+        weight: 1
+      - path: pasted__Root_GRP/pasted__root/pasted__hip/wings/left_wing_down/left_wing_down2/left_wing_down3
+        weight: 1
+      - path: pasted__Root_GRP/pasted__root/pasted__hip/wings/left_wing_down/left_wing_down2/left_wing_down3/left_wing_down4
+        weight: 1
+      - path: pasted__Root_GRP/pasted__root/pasted__hip/wings/left_wing_up
+        weight: 1
+      - path: pasted__Root_GRP/pasted__root/pasted__hip/wings/left_wing_up/left_wing_up2
+        weight: 1
+      - path: pasted__Root_GRP/pasted__root/pasted__hip/wings/left_wing_up/left_wing_up2/left_wing_up3
+        weight: 1
+      - path: pasted__Root_GRP/pasted__root/pasted__hip/wings/left_wing_up/left_wing_up2/left_wing_up3/left_wing_up4
+        weight: 1
+      - path: pasted__Root_GRP/pasted__root/pasted__hip/wings/right_wing_down
+        weight: 1
+      - path: pasted__Root_GRP/pasted__root/pasted__hip/wings/right_wing_down/right_wing_down2
+        weight: 1
+      - path: pasted__Root_GRP/pasted__root/pasted__hip/wings/right_wing_down/right_wing_down2/right_wing_down3
+        weight: 1
+      - path: pasted__Root_GRP/pasted__root/pasted__hip/wings/right_wing_down/right_wing_down2/right_wing_down3/right_wing_down4
+        weight: 1
+      - path: pasted__Root_GRP/pasted__root/pasted__hip/wings/right_wing_up
+        weight: 1
+      - path: pasted__Root_GRP/pasted__root/pasted__hip/wings/right_wing_up/right_wing_up2
+        weight: 1
+      - path: pasted__Root_GRP/pasted__root/pasted__hip/wings/right_wing_up/right_wing_up2/right_wing_up3
+        weight: 1
+      - path: pasted__Root_GRP/pasted__root/pasted__hip/wings/right_wing_up/right_wing_up2/right_wing_up3/right_wing_up4
+        weight: 1
+      - path: pasted__Root_GRP/pasted__root/pasted__spline
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

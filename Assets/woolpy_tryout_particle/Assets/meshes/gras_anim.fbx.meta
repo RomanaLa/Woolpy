@@ -1,0 +1,201 @@
+fileFormatVersion: 2
+guid: ce11de6c2d8ce49c18aff1df19e854de
+timeCreated: 1466959509
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: pCube19
+    100004: pCube20
+    100006: pCube21
+    100008: pCube22
+    100010: pCube23
+    100012: pCube24
+    100014: pCube25
+    100016: pCube26
+    100018: pCube27
+    100020: pCube28
+    100022: pCube29
+    100024: pCube30
+    100026: pCube31
+    100028: pCube4
+    400000: //RootNode
+    400002: pCube19
+    400004: pCube20
+    400006: pCube21
+    400008: pCube22
+    400010: pCube23
+    400012: pCube24
+    400014: pCube25
+    400016: pCube26
+    400018: pCube27
+    400020: pCube28
+    400022: pCube29
+    400024: pCube30
+    400026: pCube31
+    400028: pCube4
+    2300000: pCube19
+    2300002: pCube20
+    2300004: pCube21
+    2300006: pCube22
+    2300008: pCube23
+    2300010: pCube24
+    2300012: pCube25
+    2300014: pCube26
+    2300016: pCube27
+    2300018: pCube28
+    2300020: pCube29
+    2300022: pCube30
+    2300024: pCube31
+    2300026: pCube4
+    3300000: pCube19
+    3300002: pCube20
+    3300004: pCube21
+    3300006: pCube22
+    3300008: pCube23
+    3300010: pCube24
+    3300012: pCube25
+    3300014: pCube26
+    3300016: pCube27
+    3300018: pCube28
+    3300020: pCube29
+    3300022: pCube30
+    3300024: pCube31
+    3300026: pCube4
+    4300000: pCube4
+    4300002: pCube19
+    4300004: pCube20
+    4300006: pCube21
+    4300008: pCube22
+    4300010: pCube23
+    4300012: pCube24
+    4300014: pCube25
+    4300016: pCube26
+    4300018: pCube27
+    4300020: pCube28
+    4300022: pCube29
+    4300024: pCube30
+    4300026: pCube31
+    7400000: gras_wind
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: gras_wind
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 150
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: pCube4
+        weight: 1
+      - path: pCube19
+        weight: 1
+      - path: pCube20
+        weight: 1
+      - path: pCube21
+        weight: 1
+      - path: pCube22
+        weight: 1
+      - path: pCube23
+        weight: 1
+      - path: pCube24
+        weight: 1
+      - path: pCube25
+        weight: 1
+      - path: pCube26
+        weight: 1
+      - path: pCube27
+        weight: 1
+      - path: pCube28
+        weight: 1
+      - path: pCube29
+        weight: 1
+      - path: pCube30
+        weight: 1
+      - path: pCube31
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

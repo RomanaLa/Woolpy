@@ -1,0 +1,197 @@
+fileFormatVersion: 2
+guid: 5f4df8f9259584f76957eddad99b57a1
+timeCreated: 1466887846
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: blatt_
+    100002: blatt_1
+    100004: blatt_2
+    100006: blatt_3
+    100008: blatt_4
+    100010: blatt_5
+    100012: blatt_6
+    100014: blatt_7
+    100016: halm_
+    100018: halm_kopf
+    100020: halm_oben
+    100022: ikHandle1
+    100024: joint1
+    100026: joint2
+    100028: joint3
+    100030: joint4
+    100032: //RootNode
+    400000: blatt_
+    400002: blatt_1
+    400004: blatt_2
+    400006: blatt_3
+    400008: blatt_4
+    400010: blatt_5
+    400012: blatt_6
+    400014: blatt_7
+    400016: halm_
+    400018: halm_kopf
+    400020: halm_oben
+    400022: ikHandle1
+    400024: joint1
+    400026: joint2
+    400028: joint3
+    400030: joint4
+    400032: //RootNode
+    2300000: blatt_
+    2300002: blatt_1
+    2300004: blatt_2
+    2300006: blatt_3
+    2300008: blatt_4
+    2300010: blatt_5
+    2300012: blatt_6
+    2300014: blatt_7
+    3300000: blatt_
+    3300002: blatt_1
+    3300004: blatt_2
+    3300006: blatt_3
+    3300008: blatt_4
+    3300010: blatt_5
+    3300012: blatt_6
+    3300014: blatt_7
+    4300000: halm_
+    4300002: halm_kopf
+    4300004: halm_oben
+    4300006: blatt_3
+    4300008: blatt_4
+    4300010: blatt_7
+    4300012: blatt_
+    4300014: blatt_6
+    4300016: blatt_5
+    4300018: blatt_1
+    4300020: blatt_2
+    7400000: idle_schilf
+    9500000: //RootNode
+    13700000: halm_
+    13700002: halm_kopf
+    13700004: halm_oben
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: idle_schilf
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 180
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: blatt_
+        weight: 1
+      - path: blatt_1
+        weight: 1
+      - path: blatt_2
+        weight: 1
+      - path: blatt_3
+        weight: 1
+      - path: blatt_4
+        weight: 1
+      - path: blatt_5
+        weight: 1
+      - path: blatt_6
+        weight: 1
+      - path: blatt_7
+        weight: 1
+      - path: halm_
+        weight: 1
+      - path: halm_kopf
+        weight: 1
+      - path: halm_oben
+        weight: 1
+      - path: ikHandle1
+        weight: 1
+      - path: joint1
+        weight: 1
+      - path: joint1/joint2
+        weight: 1
+      - path: joint1/joint2/joint3
+        weight: 1
+      - path: joint1/joint2/joint3/joint4
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
